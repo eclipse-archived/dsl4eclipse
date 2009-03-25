@@ -1,0 +1,1 @@
+package com.github.eclipse.dsl4eclipse.utils;public interface StringConverter {	/**	 * @param object	 * @return the string representation of the object	 */	String toString(Object object);}
