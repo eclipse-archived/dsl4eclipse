@@ -4,5 +4,7 @@ Bundle-Name: Dsl4eclipse
 Bundle-SymbolicName: com.github.eclipse.dsl4eclipse
 Bundle-Version: 1.0.0
 Bundle-Vendor: http://eclipse.github.com
-Require-Bundle: org.eclipse.core.runtime
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui
 Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: com.github.eclipse.dsl4eclipse

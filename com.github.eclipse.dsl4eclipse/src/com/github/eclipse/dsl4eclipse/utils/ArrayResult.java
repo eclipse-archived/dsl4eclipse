@@ -1,0 +1,1 @@
+package com.github.eclipse.dsl4eclipse.utils;public interface ArrayResult<T> {	public T[] run() throws Exception;}

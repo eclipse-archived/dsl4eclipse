@@ -1,0 +1,7 @@
+#Wed Mar 25 14:15:26 PDT 2009
+eclipse.preferences.version=1
+org.moreunit.flexiblenaming=true
+org.moreunit.prefixes=
+org.moreunit.test_type=junit4
+org.moreunit.unitsourcefolder=com.github.eclipse.dsl4eclipse\:src\:com.github.eclipse.dsl4eclipse.test\:src
+org.moreunit.useprojectsettings=true

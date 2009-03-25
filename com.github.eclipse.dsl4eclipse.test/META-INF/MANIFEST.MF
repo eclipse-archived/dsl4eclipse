@@ -4,5 +4,11 @@ Bundle-Name: Dsl4eclipse unit tests
 Bundle-SymbolicName: com.github.eclipse.dsl4eclipse.test
 Bundle-Version: 1.0.0
 Bundle-Vendor: http://eclipse.github.com
-Require-Bundle: org.eclipse.core.runtime
+Require-Bundle: org.eclipse.core.runtime,
+ com.github.eclipse.dsl4eclipse,
+ org.junit4,
+ org.eclipse.ui
 Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ClassPath: .,
+ lib/hamcrest-all-1.2RC4.jar,
+ lib/mockito-all-1.7.jar

@@ -1,0 +1,1 @@
+package com.github.eclipse.dsl4eclipse.utils;public interface VoidResult {	/**	 * returns nothing.	 */	public void run() throws Exception;}

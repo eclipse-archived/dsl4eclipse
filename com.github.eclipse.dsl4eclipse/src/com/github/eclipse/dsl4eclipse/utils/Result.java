@@ -1,0 +1,1 @@
+package com.github.eclipse.dsl4eclipse.utils;public interface Result<T> {	T run() throws Exception;}
