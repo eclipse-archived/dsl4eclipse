@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dsl4eclipse unit tests
+Bundle-SymbolicName: com.github.eclipse.dsl4eclipse.test
+Bundle-Version: 1.0.0
+Bundle-Vendor: http://eclipse.github.com
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
